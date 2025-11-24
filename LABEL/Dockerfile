@@ -1,4 +1,5 @@
 FROM almalinux:9
-LABEL course = "docker" \
-      trainer = "siva"
+LABEL course="docker" \
+      trainer="siva" \
+      author="sivakumar"
     
