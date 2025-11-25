@@ -3,4 +3,4 @@ ENV course="docker" \
     tutor="shiva" \
     time="10hrs"
 
-CMD ["sleep", "15;"]
+CMD ["sleep", "15"]
